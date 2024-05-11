@@ -440,10 +440,10 @@ contact html
 </html>
 
 ## OUTPUT:
-![Screenshot 2024-05-11 165958](https://github.com/Vignesh-M-07/Pharma/assets/151615193/dad62523-c175-4a14-a325-c639e28f598b)
-![Screenshot 2024-05-11 170033](https://github.com/Vignesh-M-07/Pharma/assets/151615193/bbf3d425-6874-449a-81cf-20269f0d854c)
-![Screenshot 2024-05-11 170506](https://github.com/Vignesh-M-07/Pharma/assets/151615193/ad715eae-1fa9-407f-9f2d-4fd614b08716)
-![Screenshot 2024-05-11 170525](https://github.com/Vignesh-M-07/Pharma/assets/151615193/5794f39d-bf60-4db7-b395-2ce321b0803b)
+![Screenshot 2024-05-08 082641](https://github.com/Vignesh-M-07/Pharma/assets/151615193/50391e44-af06-4098-b01c-3cfa7447e2f3)
+![Screenshot 2024-05-08 082700](https://github.com/Vignesh-M-07/Pharma/assets/151615193/c8333d14-22d5-4021-a552-2f0c6a214419)
+![Screenshot 2024-05-08 082717](https://github.com/Vignesh-M-07/Pharma/assets/151615193/e38c87c8-24fa-44c1-8d50-59e6eb29bd71)
+![Screenshot 2024-05-08 082735](https://github.com/Vignesh-M-07/Pharma/assets/151615193/ab436726-2db0-4949-86d3-e5f7ef8aaf4b)
 
 
 ## RESULT:
